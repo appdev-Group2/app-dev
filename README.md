@@ -1,9 +1,9 @@
 # app-dev
 My First Repository
-# Gio Ralph Pusta
+## Gio Ralph Pusta
 ## Kimberly Monterde
-### George Francis Dela Cruz
-#### Task Perormance 1
+## George Francis Dela Cruz
+## Task Perormance 1
 
 | Movie | Title |
 | ----------- | ----------- |
