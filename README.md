@@ -4,7 +4,7 @@ My First Repository
 ## Kimberly Monterde
 ### George Francis Dela Cruz
 
-| Syntax | Task Performance |
+| Movie | Title |
 | ----------- | ----------- |
-| Group 2 | Appdev |
+| Gro | Appdev |
 | Paragraph | Text |
